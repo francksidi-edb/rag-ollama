@@ -1,0 +1,6 @@
+pdfplumber
+ollama
+langchain
+tiktoken
+transformers
+torch
